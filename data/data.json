@@ -1,0 +1,392 @@
+{
+	"list":[
+	        	{
+	        		"src":"./data/imgs/recomimgs/goods01.png",
+	        		"title":"小米MIX 2s",
+	        		"details":"四曲面陶瓷机身，骁龙845",
+	        		"newprice":"￥1999",
+	        		"oldprice":"￥2999"
+	        	},
+	        	{
+	        		"src":"./data/imgs/recomimgs/goods02.png",
+	        		"title":"小米MIX 2s",
+	        		"details":"四曲面陶瓷机身，骁龙845",
+	        		"newprice":"￥1999",
+	        		"oldprice":"￥2999"
+	        	},{
+	        		"src":"./data/imgs/recomimgs/goods03.png",
+	        		"title":"Redmi K20 Pro ",
+	        		"details":"骁龙855， 弹出全面屏",
+	        		"newprice":"￥2499",
+	        		"oldprice":" "
+	        	},{
+	        		"src":"./data/imgs/recomimgs/goods04.png",
+	        		"title":"小米8 屏幕指纹版",
+	        		"details":"8GB+128GB特惠，享6期免息",
+	        		"newprice":"￥1999",
+	        		"oldprice":"￥2999"
+	        	},
+	        	{
+	        		"src":"./data/imgs/recomimgs/goods05.png",
+	        		"title":"小米9",
+	        		"details":"全息幻彩机身，骁龙855",
+	        		"newprice":"￥2999",
+	        		"oldprice":" "
+	        	},
+	        	{
+	        		"src":"./data/imgs/recomimgs/goods06.png",
+	        		"title":"小米8 青春版",
+	        		"details":"索尼2400万自拍，超级夜景",
+	        		"newprice":"￥1049",
+	        		"oldprice":"￥1399"
+	        	},{
+	        		"src":"./data/imgs/recomimgs/goods07.png",
+	        		"title":"Redmi 7 ",
+	        		"details":"4000mAh超长续航",
+	        		"newprice":"￥699",
+	        		"oldprice":" "
+	        	},{
+	        		"src":"./data/imgs/recomimgs/goods08.png",
+	        		"title":"黑鲨游戏手机 2",
+	        		"details":"骁龙855，立体触控",
+	        		"newprice":"￥2699",
+	        		"oldprice":"￥3199"
+	        	}
+	        ],
+     "tvlist":[
+				{
+					"src":"./data/imgs/recomimgs/tv01.jpg",
+					"title":"小米电视4A 65英寸",
+					"details":"4K HDR，人工智能语音系统",
+					"newprice":"￥2899",
+					"oldprice":"￥2999"
+				},
+				{
+					"src":"./data/imgs/recomimgs/tv02.jpg",
+					"title":"小米电视4X 43英寸",
+					"details":"FHD全高清屏，人工智能语音",
+					"newprice":"￥1199",
+					"oldprice":"￥1499"
+				},
+				{
+					"src":"./data/imgs/recomimgs/tv03.jpg",
+					"title":"小米电视4C 50英寸",
+					"details":"4K HDR，钢琴烤漆",
+					"newprice":"￥1599",
+					"oldprice":"￥1699"
+				},
+				{
+					"src":"./data/imgs/recomimgs/tv04.jpg",
+					"title":"小米电视4C 55英寸",
+					"details":"4K HDR，人工智能系统",
+					"newprice":"￥1899",
+					"oldprice":"￥1999"
+				},
+				{
+					"src":"./data/imgs/recomimgs/tv05.jpg",
+					"title":"小米电视4A 32英寸",
+					"details":"人工智能系统，高清液晶屏",
+					"newprice":"￥699",
+					"oldprice":"￥799"
+				},
+				{
+					"src":"./data/imgs/recomimgs/tv06.jpg",
+					"title":"小米电视4A 50英寸",
+					"details":"4K HDR，人工智能语音系统",
+					"newprice":"￥1599",
+					"oldprice":"￥1699"
+				}
+               ],
+	     "btn":[
+	           "./data/imgs/recomimgs/btn01.png",
+	           "./data/imgs/recomimgs/btn02.png",
+	           "./data/imgs/recomimgs/btn03.png",
+	           "./data/imgs/recomimgs/btn04.png",
+	           "./data/imgs/recomimgs/btn05.png",
+	           "./data/imgs/recomimgs/btn06.png",
+	           "./data/imgs/recomimgs/btn07.png",
+	           "./data/imgs/recomimgs/btn08.png",
+	           "./data/imgs/recomimgs/btn09.png",
+	           "./data/imgs/recomimgs/btn10.png"
+	           ],
+           "btn02":[
+   	           "./data/imgs/recomimgs/intelbtn01.png",
+   	           "./data/imgs/recomimgs/intelbtn02.png",
+   	           "./data/imgs/recomimgs/intelbtn03.png",
+   	           "./data/imgs/recomimgs/intelbtn04.png",
+   	           "./data/imgs/recomimgs/intelbtn05.png",
+   	           "./data/imgs/recomimgs/intelbtn06.png",
+   	           "./data/imgs/recomimgs/intelbtn07.png",
+   	           "./data/imgs/recomimgs/intelbtn08.png",
+   	           "./data/imgs/recomimgs/intelbtn09.png",
+   	           "./data/imgs/recomimgs/intelbtn10.png"
+   	           ],
+   	       "intellist":[
+   	                    {
+   	                    	"title":"./data/imgs/recomimgs/intelltitle01.png",
+   	                    	"detail":[
+   	                    	          {
+   	                    	        	"src":"./data/imgs/recomimgs/ingoods01.png",
+     	                    	         "inname":"米家智能门锁",
+     	                    	         "intro":"一体化活体指纹识别",
+     	                    	         "newprice":"￥1199",
+     	                    	         "oldprice":" "
+   	                    	          },
+   	                    	          {
+     	                    	        "src":"./data/imgs/recomimgs/ingoods02.png",
+       	                    	         "inname":"米家智能门锁",
+       	                    	         "intro":"一体化活体指纹识别",
+       	                    	         "newprice":"￥1199",
+       	                    	         "oldprice":"￥1299"
+     	                    	       },
+     	                    	      {
+    	                    	        "src":"./data/imgs/recomimgs/ingoods04.png",
+      	                    	         "inname":"米家智能门锁",
+      	                    	         "intro":"一体化活体指纹识别",
+      	                    	         "newprice":"￥1199",
+      	                    	         "oldprice":"￥1299"
+    	                    	       },
+    	                    	       {
+       	                    	        "src":"./data/imgs/recomimgs/ingoods03.png",
+         	                    	         "inname":"米家智能门锁",
+         	                    	         "intro":"一体化活体指纹识别",
+         	                    	         "newprice":"￥1199",
+         	                    	         "oldprice":"￥1299"
+       	                    	       },
+       	                    	    {
+       	                    	        "src":"./data/imgs/recomimgs/ingoods05.png",
+         	                    	         "inname":"米家智能门锁",
+         	                    	         "intro":"一体化活体指纹识别",
+         	                    	         "newprice":"￥1199",
+         	                    	         "oldprice":" "
+       	                    	       },
+       	                    	    {
+       	                    	        "src":"./data/imgs/recomimgs/ingoods06.png",
+         	                    	         "inname":"米家智能门锁",
+         	                    	         "intro":"一体化活体指纹识别",
+         	                    	         "newprice":"￥1199",
+         	                    	         "oldprice":"￥1299"
+       	                    	       }
+   	                    	          ]
+   	                    },
+   	                 {
+                    	"title":"./data/imgs/recomimgs/intelltitle02.png",
+                    	"detail":[
+                    	          {
+                    	        	"src":"./data/imgs/recomimgs/ingoods04.png",
+ 	                    	         "inname":"米家智能门锁",
+ 	                    	         "intro":"一体化活体指纹识别",
+ 	                    	         "newprice":"￥1199",
+ 	                    	         "oldprice":" "
+                    	          },
+                    	          {
+ 	                    	        "src":"./data/imgs/recomimgs/ingoods01.png",
+   	                    	         "inname":"米家智能门锁",
+   	                    	         "intro":"一体化活体指纹识别",
+   	                    	         "newprice":"￥1199",
+   	                    	         "oldprice":"￥1299"
+ 	                    	       },
+ 	                    	      {
+	                    	        "src":"./data/imgs/recomimgs/ingoods02.png",
+  	                    	         "inname":"米家智能门锁",
+  	                    	         "intro":"一体化活体指纹识别",
+  	                    	         "newprice":"￥1199",
+  	                    	         "oldprice":"￥1299"
+	                    	       }
+                    	          ]
+   	                    },
+   	                 {
+                    	"title":"./data/imgs/recomimgs/intelltitle03.png",
+                    	"detail":[
+                    	          {
+                    	        	"src":"./data/imgs/recomimgs/ingoods07.png",
+ 	                    	         "inname":"米家智能门锁",
+ 	                    	         "intro":"一体化活体指纹识别",
+ 	                    	         "newprice":"￥1199",
+ 	                    	         "oldprice":"￥1299"
+                    	          },
+                    	          {
+ 	                    	        "src":"./data/imgs/recomimgs/ingoods08.png",
+   	                    	         "inname":"米家智能门锁",
+   	                    	         "intro":"一体化活体指纹识别",
+   	                    	         "newprice":"￥1199",
+   	                    	         "oldprice":"￥1299"
+ 	                    	       },
+ 	                    	      {
+	                    	        "src":"./data/imgs/recomimgs/ingoods09.png",
+  	                    	         "inname":"米家智能门锁",
+  	                    	         "intro":"一体化活体指纹识别",
+  	                    	         "newprice":"￥1199",
+  	                    	         "oldprice":"￥1299"
+	                    	       },
+	                    	       {
+  	                    	        	"src":"./data/imgs/recomimgs/ingoods01.png",
+    	                    	         "inname":"米家智能门锁",
+    	                    	         "intro":"一体化活体指纹识别",
+    	                    	         "newprice":"￥1199",
+    	                    	         "oldprice":"￥1299"
+  	                    	          },
+  	                    	          {
+    	                    	        "src":"./data/imgs/recomimgs/ingoods02.png",
+      	                    	         "inname":"米家智能门锁",
+      	                    	         "intro":"一体化活体指纹识别",
+      	                    	         "newprice":"￥1199",
+      	                    	         "oldprice":"￥1299"
+    	                    	       },
+    	                    	      {
+   	                    	        "src":"./data/imgs/recomimgs/ingoods04.png",
+     	                    	         "inname":"米家智能门锁",
+     	                    	         "intro":"一体化活体指纹识别",
+     	                    	         "newprice":"￥1199",
+     	                    	         "oldprice":"￥1299"
+   	                    	       }
+                    	          ]
+   	                    },
+   	                 {
+   	                    	"title":"./data/imgs/recomimgs/intelltitle04.png",
+   	                    	"detail":[
+   	                    	          {
+   	                    	        	"src":"./data/imgs/recomimgs/ingoods01.png",
+   	 	                    	         "inname":"米家智能门锁",
+   	 	                    	         "intro":"一体化活体指纹识别",
+   	 	                    	         "newprice":"￥1199",
+   	 	                    	         "oldprice":"￥1299"
+   	                    	          },
+   	                    	          {
+   	 	                    	        "src":"./data/imgs/recomimgs/ingoods02.png",
+   	   	                    	         "inname":"米家智能门锁",
+   	   	                    	         "intro":"一体化活体指纹识别",
+   	   	                    	         "newprice":"￥1199",
+   	   	                    	         "oldprice":"￥1299"
+   	 	                    	       },
+   	 	                    	      {
+   		                    	        "src":"./data/imgs/recomimgs/ingoods03.png",
+   	  	                    	         "inname":"米家智能门锁",
+   	  	                    	         "intro":"一体化活体指纹识别",
+   	  	                    	         "newprice":"￥1199",
+   	  	                    	         "oldprice":"￥1299"
+   		                    	       },
+   		                    	       {
+   	  	                    	        	"src":"./data/imgs/recomimgs/ingoods04.png",
+   	    	                    	         "inname":"米家智能门锁",
+   	    	                    	         "intro":"一体化活体指纹识别",
+   	    	                    	         "newprice":"￥1199",
+   	    	                    	         "oldprice":"￥1299"
+   	  	                    	          },
+   	  	                    	          {
+   	    	                    	        "src":"./data/imgs/recomimgs/ingoods05.png",
+   	      	                    	         "inname":"米家智能门锁",
+   	      	                    	         "intro":"一体化活体指纹识别",
+   	      	                    	         "newprice":"￥1199",
+   	      	                    	         "oldprice":"￥1299"
+   	    	                    	       },
+   	    	                    	      {
+   	   	                    	             "src":"./data/imgs/recomimgs/ingoods06.png",
+   	     	                    	         "inname":"米家智能门锁",
+   	     	                    	         "intro":"一体化活体指纹识别",
+   	     	                    	         "newprice":"￥1199",
+   	     	                    	         "oldprice":"￥1299"
+   	   	                    	       }
+   	                    	          ]
+   	   	                    }
+   	                     ],
+	       "shopcar":[
+	                  {
+	                	  "src":"./data/imgs/recomimgs/like01.jpg",
+	                	  "title":"飞利浦吸顶灯卧室28W",
+	                	  "newprice":"￥299",
+	                	  "oldprice":" "
+	                  },
+	                  {
+	                	  "src":"./data/imgs/recomimgs/like02.jpg",
+	                	  "title":"小米USB-C电源适配器",
+	                	  "newprice":"￥118",
+	                	  "oldprice":"￥129"
+	                  },
+	                  {
+	                	  "src":"./data/imgs/recomimgs/like03.jpg",
+	                	  "title":"小米CC9 6GB+128GB",
+	                	  "newprice":"￥1999",
+	                	  "oldprice":" "
+	                  },
+	                  {
+	                	  "src":"./data/imgs/recomimgs/like04.jpg",
+	                	  "title":"小米CC9 6GB+64GB",
+	                	  "newprice":"￥1799",
+	                	  "oldprice":" "
+	                  },
+	                  {
+	                	  "src":"./data/imgs/recomimgs/like05.jpg",
+	                	  "title":"飞利浦吸顶灯卧室28W",
+	                	  "newprice":"￥299",
+	                	  "oldprice":" "
+	                  },
+	                  {
+	                	  "src":"./data/imgs/recomimgs/like06.jpg",
+	                	  "title":"小米USB-C电源适配器",
+	                	  "newprice":"￥118",
+	                	  "oldprice":"￥129"
+	                  },
+	                  {
+	                	  "src":"./data/imgs/recomimgs/like07.jpg",
+	                	  "title":"小米CC9 6GB+128GB",
+	                	  "newprice":"￥1999",
+	                	  "oldprice":" "
+	                  },
+	                  {
+	                	  "src":"./data/imgs/recomimgs/like08.jpg",
+	                	  "title":"小米CC9 6GB+64GB",
+	                	  "newprice":"￥1799",
+	                	  "oldprice":" "
+	                  }
+	                  ],
+          "shoplist":[
+       	           {
+       	        	   "src":"./data/imgs/shopcar/shop01.jpg",
+       	        	   "info":"小米CC9 6GB+128GB 白色恋人（白色）",
+       	        	   "price":"10",
+       	        	   "bon":false,
+       	        	   "num":1
+       	           },
+       	           {
+       	        	   "src":"./data/imgs/shopcar/shop02.jpg",
+       	        	   "info":"小米CC9 6GB+128GB 白色恋人（白色）",
+       	        	   "price":"10",
+       	        	   "bon":false,
+       	        	   "num":1
+       	           },
+       	           {
+       	        	   "src":"./data/imgs/shopcar/shop03.jpg",
+       	        	   "info":"小米CC9 6GB+128GB 白色恋人（白色）",
+       	        	   "price":"10",
+       	        	   "bon":false,
+       	        	   "num":1
+       	           }
+       	           ],
+       	 "search":[
+       	           "小米MIX 3",
+       	           "小米净水器600G",
+       	           "小米手环4",
+       	           "米家电动螺丝刀",
+       	           "Redmi K20 Pro ",
+       	           "二合一移动电源（充电器）",
+       	           "小米体重秤2",
+       	           "投影仪青春版"
+   	           ],
+        "search02":[
+      	           "手机",
+      	           "电视",
+      	           "笔记本",
+      	           "盒子",
+      	           "路由器",
+      	           "平板",
+      	           "手表",
+      	           "投影",
+      	           "VR",
+      	           "穿戴",
+      	           "影音",
+      	           "空气净化器",
+      	           "空调",
+      	           "耳机"
+      	           ]
+}

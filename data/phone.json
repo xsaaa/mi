@@ -1,0 +1,211 @@
+{
+	"phonelist":[
+	             {
+	            	 "titlepic":"./data/imgs/phone/phonetitle01.jpg",
+	            	 "bigpic":"./data/imgs/phone/bigpic01.jpg",
+	            	 "bigname":"Redmi K20 Pro ",
+	            	 "bigprice":"￥2499",
+	            	 "bigdetails":"骁龙855处理器, 弹出式极界全面屏",
+	            	 "smallbox":[
+	            	             {
+	            	               "src":"./data/imgs/phone/tel01.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":" "
+	            	             },
+            	                {
+	            	               "src":"./data/imgs/phone/tel02.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	             },
+	            	             {
+		            	               "src":"./data/imgs/phone/tel01.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	             },
+            	                 {
+	            	               "src":"./data/imgs/phone/tel02.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	              },
+	            	              {
+	            	               "src":"./data/imgs/phone/tel05.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":" "
+	            	              },
+	            	              {
+	            	               "src":"./data/imgs/phone/tel06.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	              },
+	            	              {
+	            	               "src":"./data/imgs/phone/tel07.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	              },
+	            	              {
+	            	               "src":"./data/imgs/phone/tel08.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	              }
+	            	             ]
+	             },
+	             {
+	            	 "titlepic":"./data/imgs/phone/phonetitle02.jpg",
+	            	 "bigpic":"./data/imgs/phone/bigpic02.jpg",
+	            	 "bigname":"Redmi K20 Pro ",
+	            	 "bigprice":"￥2499",
+	            	 "bigdetails":"骁龙855处理器, 弹出式极界全面屏",
+	            	 "smallbox":[
+	            	             {
+	            	               "src":"./data/imgs/phone/tel01.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	             },
+            	                 {
+	            	               "src":"./data/imgs/phone/tel02.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	              },
+	            	              {
+	            	               "src":"./data/imgs/phone/tel03.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	              },
+	            	              {
+	            	               "src":"./data/imgs/phone/tel04.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	              }
+	            	             ]
+	             },
+	             {
+	            	 "titlepic":"./data/imgs/phone/phonetitle03.jpg",
+	            	 "bigpic":"./data/imgs/phone/bigpic03.jpg",
+	            	 "bigname":"Redmi K20 Pro ",
+	            	 "bigprice":"￥2499",
+	            	 "bigdetails":"骁龙855处理器, 弹出式极界全面屏",
+	            	 "smallbox":[
+	            	             {
+	            	               "src":"./data/imgs/phone/tel01.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	             },
+            	                 {
+	            	               "src":"./data/imgs/phone/tel02.jpg",
+            		        		"title":"小米MIX 2s",
+            		        		"details":"四曲面陶瓷机身，骁龙845",
+            		        		"newprice":"￥1999",
+            		        		"oldprice":"￥2999"
+	            	              }
+	            	             ]
+	             }
+	             ],
+	       "tvlist":[
+	                 {
+	                	 "titlepic":"./data/imgs/tv/tvtitle01.jpg",
+		            	 "smallbox":[
+		            	             {
+		            	               "src":"./data/imgs/tv/tv01.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	             },
+	            	                 {
+		            	               "src":"./data/imgs/tv/tv02.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	              },
+	            	                {
+		            	               "src":"./data/imgs/tv/tv03.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	              },
+		            	              {
+		            	               "src":"./data/imgs/tv/tv04.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	              },
+		            	              {
+		            	               "src":"./data/imgs/tv/tv05.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	              },
+		            	              {
+		            	               "src":"./data/imgs/tv/tv06.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	              }
+		            	             ]
+	                 },
+	                 {
+	                	 "titlepic":"./data/imgs/tv/tvtitle01.jpg",
+		            	 "smallbox":[
+		            	             {
+		            	               "src":"./data/imgs/tv/tv06.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	             },
+	            	                 {
+		            	               "src":"./data/imgs/tv/tv02.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	              },
+	            	                {
+		            	               "src":"./data/imgs/tv/tv05.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	              },
+		            	              {
+		            	               "src":"./data/imgs/tv/tv04.jpg",
+	            		        		"title":"小米MIX 2s",
+	            		        		"details":"四曲面陶瓷机身，骁龙845",
+	            		        		"newprice":"￥1999",
+	            		        		"oldprice":"￥2999"
+		            	              }
+		            	             ]
+	                 }
+	                 ]
+}

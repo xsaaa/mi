@@ -1,0 +1,607 @@
+{
+	      "typePic":[
+                   {
+                  	 "title":"新品",
+                  	 "detail":[
+    	              	         {
+    		   		            	  "pic":"./data/imgs/typeimgs/type01.png",
+    		   		            	  "text":"小米CC9"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type02.png",
+    		   		            	  "text":"小米CC9"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type03.png",
+    		   		            	  "text":"Redmi Note 7 Pro"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type04.png",
+    		   		            	  "text":"小米CC9"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type05.png",
+    		   		            	  "text":"小米CC9"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type06.png",
+    		   		            	  "text":"Redmi Note 7 Pro"
+    		   		              },
+    		   		             {
+    		   		            	  "pic":"./data/imgs/typeimgs/type07.png",
+    		   		            	  "text":"小米CC9"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type08.png",
+    		   		            	  "text":"小米CC9"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type01.png",
+    		   		            	  "text":"Redmi Note 7 Pro"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type10.png",
+    		   		            	  "text":"小米CC9"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type11.jpg",
+    		   		            	  "text":"小米CC9"
+    		   		              },
+    		   		              {
+    		   		            	  "pic":"./data/imgs/typeimgs/type12.png",
+    		   		            	  "text":"Redmi Note 7 Pro"
+    		   		              }
+                  	           ]
+                      
+                   },
+                 {
+              	 "title":"手机",
+              	 "detail":[
+	              	         {
+				            	  "pic":"./data/imgs/typeimgs/tv01.jpg",
+				            	  "text":"全面屏电视E55A"
+				              },
+				              {
+				            	  "pic":"./data/imgs/typeimgs/tv02.jpg",
+				            	  "text":"壁画电视65英寸"
+				              },
+				              {
+				            	  "pic":"./data/imgs/typeimgs/tv03.jpg",
+				            	  "text":"电视4X65英寸"
+				              },
+				              {
+				            	  "pic":"./data/imgs/typeimgs/tv04.png",
+				            	  "text":"立式空调C1"
+				              },
+				              {
+				            	  "pic":"./data/imgs/typeimgs/tv05.jpg",
+				            	  "text":"空调C1（一级能效）"
+				              },
+				              {
+				            	  "pic":"./data/imgs/typeimgs/tv06.jpg",
+				            	  "text":"洗烘一体机1A"
+				              }
+              	           ]
+	                  
+                 },
+                 {
+                  	 "title":"众筹",
+                  	 "detail":[
+    	              	         {
+    				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+    				            	  "text":"游戏本512GB"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/computer02.jpg",
+    				            	  "text":"Air 12.5' 2019款"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+    				            	  "text":"笔记本15.6' 独显"
+    				              }
+                  	           ]
+    	                  
+                     },
+                     {
+                      	 "title":"电视",
+                      	 "detail":[
+        	              	         {
+        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+        				            	  "text":"小米CC9"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+        				            	  "text":"小米CC9"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+        				            	  "text":"Redmi Note 7 Pro"
+        				              }
+                      	           ]
+        	                  
+                         },
+                         {
+	                      	 "title":"智能",
+	                      	 "detail":[
+	        	              	         {
+	        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+	        				            	  "text":"小米CC9"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+	        				            	  "text":"小米CC9"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+	        				            	  "text":"Redmi Note 7 Pro"
+	        				              }
+	                      	           ]
+	        	                  
+	                         },
+	                         {
+		                      	 "title":"家用电器",
+		                      	 "detail":[
+		        	              	         {
+		        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+		        				            	  "text":"Redmi Note 7 Pro"
+		        				              }
+		                      	           ]
+		        	                  
+	                         },
+	                         {
+		                      	 "title":"厨房电器",
+		                      	 "detail":[
+		        	              	         {
+		        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+		        				            	  "text":"Redmi Note 7 Pro"
+		        				              }
+		                      	           ]
+		        	                  
+		                         },
+		                         {
+			                      	 "title":"穿戴酷玩",
+			                      	 "detail":[
+			        	              	         {
+			        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+			        				            	  "text":"小米CC9"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+			        				            	  "text":"小米CC9"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+			        				            	  "text":"Redmi Note 7 Pro"
+			        				              }
+			                      	           ]
+			        	                  
+			                         },
+			                         {
+				                      	 "title":"家居家装",
+				                      	 "detail":[
+				        	              	         {
+				        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+				        				            	  "text":"小米CC9"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+				        				            	  "text":"小米CC9"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+				        				            	  "text":"Redmi Note 7 Pro"
+				        				              }
+				                      	           ]
+				        	                  
+				                         },
+                         {
+	                      	 "title":"电源插座",
+	                      	 "detail":[
+	        	              	         {
+	        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+	        				            	  "text":"小米CC9"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+	        				            	  "text":"小米CC9"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+	        				            	  "text":"Redmi Note 7 Pro"
+	        				              }
+	                      	           ]
+	        	                  
+	                         },
+	                         {
+		                      	 "title":"出行车载",
+		                      	 "detail":[
+		        	              	         {
+		        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+		        				            	  "text":"Redmi Note 7 Pro"
+		        				              }
+		                      	           ]
+		        	                  
+		                         },
+		                         {
+			                      	 "title":"耳机音箱",
+			                      	 "detail":[
+			        	              	         {
+			        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+			        				            	  "text":"小米CC9"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+			        				            	  "text":"小米CC9"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+			        				            	  "text":"Redmi Note 7 Pro"
+			        				              }
+			                      	           ]
+			        	                  
+			                         },
+			                         {
+				                      	 "title":"路由器",
+				                      	 "detail":[
+				        	              	         {
+				        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+				        				            	  "text":"小米CC9"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+				        				            	  "text":"小米CC9"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+				        				            	  "text":"Redmi Note 7 Pro"
+				        				              }
+				                      	           ]
+				        	                  
+				                         },
+				                         {
+					                      	 "title":"个护健康",
+					                      	 "detail":[
+					        	              	         {
+					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+					        				            	  "text":"Redmi Note 7 Pro"
+					        				              }
+					                      	           ]
+					        	                  
+					                         },
+				                         {
+					                      	 "title":"日用百货",
+					                      	 "detail":[
+					        	              	         {
+					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+					        				            	  "text":"Redmi Note 7 Pro"
+					        				              }
+					                      	           ]
+					        	                  
+					                         },
+				                         {
+					                      	 "title":"床品家具",
+					                      	 "detail":[
+					        	              	         {
+					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+					        				            	  "text":"Redmi Note 7 Pro"
+					        				              }
+					                      	           ]
+					        	                  
+					                         },
+				                         {
+					                      	 "title":"配件线材",
+					                      	 "detail":[
+					        	              	         {
+					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+					        				            	  "text":"Redmi Note 7 Pro"
+					        				              }
+					                      	           ]
+					        	                  
+					                         },
+				                         {
+					                      	 "title":"办公用品",
+					                      	 "detail":[
+					        	              	         {
+					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+					        				            	  "text":"Redmi Note 7 Pro"
+					        				              }
+					                      	           ]
+					        	                  
+					                         },
+		                         {
+			                      	 "title":"鞋服箱包",
+			                      	 "detail":[
+			        	              	         {
+			        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+			        				            	  "text":"小米CC9"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+			        				            	  "text":"小米CC9"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+			        				            	  "text":"Redmi Note 7 Pro"
+			        				              }
+			                      	           ]
+			        	                  
+			                         },
+                 {
+                  	 "title":"儿童用品",
+                  	 "detail":[
+    	              	         {
+    				            	  "pic":"./data/imgs/typeimgs/type01.png",
+    				            	  "text":"小米CC9"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/type02.png",
+    				            	  "text":"小米CC9"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/type03.png",
+    				            	  "text":"Redmi Note 7 Pro"
+    				              }
+                  	           ]
+    	                  
+                     },
+                     {
+                      	 "title":"家装",
+                      	 "detail":[
+        	              	         {
+        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+        				            	  "text":"小米CC9"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+        				            	  "text":"小米CC9"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+        				            	  "text":"Redmi Note 7 Pro"
+        				              }
+                      	           ]
+        	                  
+                         },
+                         {
+	                      	 "title":"礼品",
+	                      	 "detail":[
+	        	              	         {
+	        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+	        				            	  "text":"小米CC9"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+	        				            	  "text":"小米CC9"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+	        				            	  "text":"Redmi Note 7 Pro"
+	        				              }
+	                      	           ]
+	        	                  
+	                         },
+	                         {
+		                      	 "title":"服务",
+		                      	 "detail":[
+		        	              	         {
+		        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+		        				            	  "text":"Redmi Note 7 Pro"
+		        				              }
+		                      	           ]
+		        	                  
+		                         },
+		                         {
+			                      	 "title":"会员卡",
+			                      	 "detail":[
+			        	              	         {
+			        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+			        				            	  "text":"小米CC9"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+			        				            	  "text":"小米CC9"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+			        				            	  "text":"Redmi Note 7 Pro"
+			        				              }
+			                      	           ]
+			        	                  
+			                         },
+			                         {
+				                      	 "title":"米粉卡",
+				                      	 "detail":[
+				        	              	         {
+				        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+				        				            	  "text":"小米CC9"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+				        				            	  "text":"小米CC9"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+				        				            	  "text":"Redmi Note 7 Pro"
+				        				              }
+				                      	           ]
+				        	                  
+				                         },
+				                         {
+					                      	 "title":"零售店",
+					                      	 "detail":[
+					        	              	         {
+					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
+					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+					        				            	  "text":"Redmi Note 7 Pro"
+					        				              }
+					                      	           ]
+					        	                  
+					                         }
+	                    ],
+     "channellist":[
+                    {
+                    	"title":"./data/imgs/channel/title01.png",
+                    	"detail":[
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods01.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":"￥249"
+                    	          },
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods05.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":"￥249"
+                    	          },
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods06.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":"￥249"
+                    	          },
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods07.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":" "
+                    	          }
+                    	          ]
+                    },
+                    {
+                    	"title":"./data/imgs/channel/title02.png",
+                    	"detail":[
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods01.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":" "
+                    	          },
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods02.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":"￥249"
+                    	          },
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods03.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":"￥249"
+                    	          },
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods04.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":" "
+                    	          }
+                    	          ]
+                    },
+                    {
+                    	"title":"./data/imgs/channel/title03.png",
+                    	"detail":[
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods01.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":" "
+                    	          },
+                    	          {
+                    	        	  "pic":"./data/imgs/channel/cgoods02.png",
+                    	        	  "name":"小米手环4",
+                    	        	  "text":"大屏彩显，20天超长续航",
+                    	        	  "newprice":"￥149",
+                    	        	  "oldprice":"￥249"
+                    	          }
+                    	          ]
+                    }
+                    ]
+}
