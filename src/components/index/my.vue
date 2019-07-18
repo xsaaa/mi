@@ -79,6 +79,20 @@ import { MessageBox } from 'mint-ui';
 				msg:'登陆/注册'
 			}
 		},
+		mounted(){
+			var _this = this;
+			this.$http.get('./data/data.json')
+			.then(function(res){
+				_this.intelbtn = res.data.btn02;
+				_this.intellist = res.data.intellist;
+			})
+			.catch(()=>{
+			
+			})
+			.finally((f)=>{
+
+			})
+		},
 		created:function(){
 		  this.getParams();
 		},
@@ -129,6 +143,7 @@ import { MessageBox } from 'mint-ui';
 		padding: 5% 3%;
 		color: white;
 		font-size: 0.8rem;
+		box-sizing:border-box ;
 	}
 	.p1{
 		text-align: left;
@@ -143,6 +158,7 @@ import { MessageBox } from 'mint-ui';
 		overflow: hidden;
 		font-size: 1rem;
 		border-bottom: 1px solid gainsboro;
+		box-sizing:border-box ;
 	}
 	.t1{
 		display: inline-block;
@@ -185,6 +201,7 @@ import { MessageBox } from 'mint-ui';
 	.bigbox{
 		width: 100%;
 		padding: 0% 2%;
+		box-sizing:border-box ;
 	}
 	.p5{
 		width: 85%;

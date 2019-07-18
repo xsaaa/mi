@@ -1,0 +1,32 @@
+{
+	"home":[
+	        {
+	        	"name":"recommend",
+	        	"type":"推荐"
+	        },
+	        {
+	        	"name":"phone",
+	        	"type":"手机"
+	        },
+	        {
+	        	"name":"intelligence",
+	        	"type":"智能"
+	        },
+	        {
+	        	"name":"tv",
+	        	"type":"电视"
+	        },
+	        {
+	        	"name":"tv",
+	        	"type":"笔记本"
+	        },
+	        {
+	        	"name":"tv",
+	        	"type":"家电"
+	        },
+	        {
+	        	"name":"tv",
+	        	"type":"生活"
+	        }
+	        ]
+}

@@ -1,7 +1,7 @@
 <template>
 	<div id="box">
 		 	<router-view></router-view>
-			<header id="header">
+			<header id="header01">
 						<img class="header-left" src="../../assets/home/milogo01.png">
 						<p class="header-middle" @click="search()">
 							<span class="iconfont">&#xe617;</span>
@@ -13,13 +13,9 @@
 							</router-link>
 						</p>	
 						<swiper :options="swiperOption" class="nav">
-					        <swiper-slide><li class="nav-btns" @click="tabChange(recommend); num=0" :class="{active:num==0}">推荐</li></swiper-slide>
-					        <swiper-slide><li class="nav-btns" @click="tabChange(phone); num=1">手机</li></swiper-slide>
-					        <swiper-slide><li class="nav-btns" @click="tabChange(intelligence); num=1">智能</li></swiper-slide>
-					        <swiper-slide><li class="nav-btns" @click="tabChange(tv);num=1">电视</li></swiper-slide>
-					        <swiper-slide><li class="nav-btns" @click="num=1">笔记本</li></swiper-slide>
-					        <swiper-slide><li class="nav-btns" @click="num=1">家电</li></swiper-slide>
-					        <swiper-slide><li class="nav-btns" @click="num=1">生活</li></swiper-slide>
+					        <swiper-slide v-for="(item,index) in homelist">
+					        	<li class='nav-btns' @click="tabChange(item.name),change(index)" :class="{active:index==num}">{{item.type}}</li>
+					        </swiper-slide>
 					    </swiper>
 			</header>
 			<component :is="currentView"></component>
@@ -38,6 +34,7 @@
 		data(){
 			return{
 				num:0,
+				homelist:[],
 				recommend:'recommend',
 				phone:'phone',
 				intelligence:'intelligence',
@@ -62,11 +59,24 @@
 			tv
 		},
 		mounted(){
+			var _this = this;
+			this.$http.get('./data/home.json')
+			.then(function(res){
+				_this.homelist = res.data.home;
+			})
+			.catch(()=>{
 			
+			})
+			.finally((f)=>{
+
+			})
 		},
 		methods:{
 			tabChange(tabItem){
 				this.currentView = tabItem;
+			},
+			change(i){
+				this.num = i
 			},
 			search(){
 				this.$router.push({path:'/search'})
@@ -79,7 +89,7 @@
 	#box{
 		width: 100%;
 	}
-	#header{
+	#header01{
 		width: 100%;
 		background-color: #f2f2f2;
 		position: fixed;
@@ -121,7 +131,6 @@
 	}
 	.nav{
 		width: 100%;
-		/*margin: 0% 2%;*/
 		overflow: hidden;
 		z-index: 999;
 	}
@@ -129,10 +138,6 @@
 		padding: 5% 0%;
 		font-size: 0.9rem;
 		border-bottom: 2px solid #f2f2f2;
-	}
-	.nav-btns:hover{
-		color: #f60;
-		border-bottom-color: orangered;
 	}
 	.active{
 		color: #f60;
