@@ -7,7 +7,7 @@
 		  <mt-button icon="search" slot="right" @click="search()"></mt-button>
 		</mt-header>
 			<ul class="lbox l">
-				<li :class="{navbox:true,active:index==num}" v-for="(item,index) in typePic" @click="jump(index)">{{item.title}}</li>
+				<li v-for="(item,index) in typePic" :class="{navbox:true,active:num==index}" @click="jump(index)">{{item.title}}</li>
 			</ul>
 			
 			<article class="rbox r" >
@@ -61,12 +61,12 @@
 				}
 			},
 			jump(i){
-				this.num = i;
 				var oSec = document.querySelectorAll('.s_jump');
 				var total = oSec[i].offsetTop-100;//获取需要滚动的距离
 				window.pageYOffset = total;//safari
 				document.documentElement.scrollTop = total;//firefox
 				document.body.scrollTop = total;//chrome
+				this.num = i;
 			},
 			handleScroll(){
 				var scrolled = document.documentElement.scrollTop || document.body.scrollTop;

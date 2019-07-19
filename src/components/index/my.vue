@@ -131,7 +131,7 @@ import { MessageBox } from 'mint-ui';
 
 <style scoped="scoped">
 	#box{
-		overflow: hidden;
+		overflow: auto;
 		background-color: #f5f5f5;
 	}
 	.hd{
@@ -171,7 +171,7 @@ import { MessageBox } from 'mint-ui';
 		}
 	.t2{
 		display: inline-block;
-		padding: 1% 8% 0% 0%;
+		padding: 2% 0% 0% 0%;
 		font-size: 0.8rem;
 	}
 	.p3{

@@ -265,7 +265,7 @@
 				  this.$router.push({path:'/login'})
 				})
 			.catch(()=>{
-				this.$router.push({path:'/my'})
+				this.$router.push({path:'/detail'})
 			})
 			.finally((f)=>{
 

@@ -110,7 +110,7 @@
 			
 			})
 			.finally((f)=>{
-//				console.log('请求结束')
+
 			})
 		},
 		methods:{
@@ -189,6 +189,7 @@
 		width: 33.3%;
 		float: left;
 		font-size: 1rem;
+		box-sizing: border-box;
 	}
 	.fli:nth-child(1){
 		background-color: white;
@@ -197,12 +198,12 @@
 	.fli:nth-child(2){
 		background-color: #f5f5f5;
 		color: black;
-		padding: 4% 0%;
+		padding: 4.3% 0%;
 	}
 	.fli:nth-child(3){
 		color: white;
 		background-color: #ff6700;
-		padding: 4% 0%;
+		padding: 4.3% 0%;
 	}
 	.p1{
 		width: 92%;

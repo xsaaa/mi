@@ -96,6 +96,22 @@
     				            	  "text":"Air 12.5' 2019款"
     				              },
     				              {
+    				            	  "pic":"./data/imgs/typeimgs/type04.png",
+    				            	  "text":"Air 12.5' 2019款"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/type08.png",
+    				            	  "text":"Air 12.5' 2019款"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/type09.png",
+    				            	  "text":"Air 12.5' 2019款"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/computer02.jpg",
+    				            	  "text":"Air 12.5' 2019款"
+    				              },
+    				              {
     				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
     				            	  "text":"笔记本15.6' 独显"
     				              }
@@ -114,7 +130,27 @@
         				            	  "text":"小米CC9"
         				              },
         				              {
-        				            	  "pic":"./data/imgs/typeimgs/type03.png",
+        				            	  "pic":"./data/imgs/typeimgs/type08.png",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/type09.png",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/type05.png",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/type04.png",
         				            	  "text":"Redmi Note 7 Pro"
         				              }
                       	           ]
@@ -126,6 +162,22 @@
 	        	              	         {
 	        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 	        				            	  "text":"小米CC9"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type09.png",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type05.png",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
 	        				              },
 	        				              {
 	        				            	  "pic":"./data/imgs/typeimgs/type02.png",
@@ -146,6 +198,22 @@
 		        				            	  "text":"小米CC9"
 		        				              },
 		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type09.png",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/type08.png",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
 		        				            	  "pic":"./data/imgs/typeimgs/type02.png",
 		        				            	  "text":"小米CC9"
 		        				              },
@@ -159,6 +227,22 @@
 	                         {
 		                      	 "title":"厨房电器",
 		                      	 "detail":[
+		                      	         {
+	        				            	  "pic":"./data/imgs/typeimgs/type09.png",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type05.png",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
 		        	              	         {
 		        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 		        				            	  "text":"小米CC9"
@@ -186,6 +270,22 @@
 			        				            	  "text":"小米CC9"
 			        				              },
 			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type12.png",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/type11.png",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
 			        				            	  "pic":"./data/imgs/typeimgs/type03.png",
 			        				            	  "text":"Redmi Note 7 Pro"
 			        				              }
@@ -198,6 +298,22 @@
 				        	              	         {
 				        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 				        				            	  "text":"小米CC9"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
 				        				              },
 				        				              {
 				        				            	  "pic":"./data/imgs/typeimgs/type02.png",
@@ -218,6 +334,22 @@
 	        				            	  "text":"小米CC9"
 	        				              },
 	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type09.png",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/type05.png",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
 	        				            	  "pic":"./data/imgs/typeimgs/type02.png",
 	        				            	  "text":"小米CC9"
 	        				              },
@@ -234,6 +366,22 @@
 		        	              	         {
 		        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
 		        				              },
 		        				              {
 		        				            	  "pic":"./data/imgs/typeimgs/type02.png",
@@ -258,6 +406,22 @@
 			        				            	  "text":"小米CC9"
 			        				              },
 			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
 			        				            	  "pic":"./data/imgs/typeimgs/type03.png",
 			        				            	  "text":"Redmi Note 7 Pro"
 			        				              }
@@ -276,6 +440,22 @@
 				        				            	  "text":"小米CC9"
 				        				              },
 				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
 				        				            	  "pic":"./data/imgs/typeimgs/type03.png",
 				        				            	  "text":"Redmi Note 7 Pro"
 				        				              }
@@ -285,6 +465,22 @@
 				                         {
 					                      	 "title":"个护健康",
 					                      	 "detail":[
+					                      	         {
+				        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
 					        	              	         {
 					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 					        				            	  "text":"小米CC9"
@@ -312,6 +508,22 @@
 					        				            	  "text":"小米CC9"
 					        				              },
 					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
 					        				            	  "pic":"./data/imgs/typeimgs/type03.png",
 					        				            	  "text":"Redmi Note 7 Pro"
 					        				              }
@@ -330,6 +542,22 @@
 					        				            	  "text":"小米CC9"
 					        				              },
 					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
 					        				            	  "pic":"./data/imgs/typeimgs/type03.png",
 					        				            	  "text":"Redmi Note 7 Pro"
 					        				              }
@@ -342,6 +570,22 @@
 					        	              	         {
 					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
 					        				              },
 					        				              {
 					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
@@ -362,6 +606,22 @@
 					        				            	  "text":"小米CC9"
 					        				              },
 					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
 					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
 					        				            	  "text":"小米CC9"
 					        				              },
@@ -380,6 +640,22 @@
 			        				            	  "text":"小米CC9"
 			        				              },
 			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
 			        				            	  "pic":"./data/imgs/typeimgs/type02.png",
 			        				            	  "text":"小米CC9"
 			        				              },
@@ -396,6 +672,22 @@
     	              	         {
     				            	  "pic":"./data/imgs/typeimgs/type01.png",
     				            	  "text":"小米CC9"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+    				            	  "text":"Air 12.5' 2019款"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+    				            	  "text":"Air 12.5' 2019款"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+    				            	  "text":"Air 12.5' 2019款"
+    				              },
+    				              {
+    				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+    				            	  "text":"Air 12.5' 2019款"
     				              },
     				              {
     				            	  "pic":"./data/imgs/typeimgs/type02.png",
@@ -420,6 +712,22 @@
         				            	  "text":"小米CC9"
         				              },
         				              {
+        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
+        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+        				            	  "text":"Air 12.5' 2019款"
+        				              },
+        				              {
         				            	  "pic":"./data/imgs/typeimgs/type03.png",
         				            	  "text":"Redmi Note 7 Pro"
         				              }
@@ -432,6 +740,22 @@
 	        	              	         {
 	        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 	        				            	  "text":"小米CC9"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
+	        				              },
+	        				              {
+	        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+	        				            	  "text":"Air 12.5' 2019款"
 	        				              },
 	        				              {
 	        				            	  "pic":"./data/imgs/typeimgs/type02.png",
@@ -450,6 +774,22 @@
 		        	              	         {
 		        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 		        				            	  "text":"小米CC9"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
+		        				              },
+		        				              {
+		        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+		        				            	  "text":"Air 12.5' 2019款"
 		        				              },
 		        				              {
 		        				            	  "pic":"./data/imgs/typeimgs/type02.png",
@@ -474,6 +814,22 @@
 			        				            	  "text":"小米CC9"
 			        				              },
 			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
+			        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+			        				            	  "text":"Air 12.5' 2019款"
+			        				              },
+			        				              {
 			        				            	  "pic":"./data/imgs/typeimgs/type03.png",
 			        				            	  "text":"Redmi Note 7 Pro"
 			        				              }
@@ -486,6 +842,22 @@
 				        	              	         {
 				        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 				        				            	  "text":"小米CC9"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
+				        				              },
+				        				              {
+				        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+				        				            	  "text":"Air 12.5' 2019款"
 				        				              },
 				        				              {
 				        				            	  "pic":"./data/imgs/typeimgs/type02.png",
@@ -504,6 +876,22 @@
 					        	              	         {
 					        				            	  "pic":"./data/imgs/typeimgs/type01.png",
 					        				            	  "text":"小米CC9"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer09.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer05.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer03.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
+					        				              },
+					        				              {
+					        				            	  "pic":"./data/imgs/typeimgs/computer01.jpg",
+					        				            	  "text":"Air 12.5' 2019款"
 					        				              },
 					        				              {
 					        				            	  "pic":"./data/imgs/typeimgs/type02.png",
