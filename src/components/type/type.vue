@@ -78,8 +78,10 @@
 						this.num = i;
 					}
 				}
-				if(scrolled>2400){
-					lbox.scrollTop = scrolled-2400;
+				if(scrolled>4300){
+					lbox.scrollTop = scrolled-4300;
+					console.log("scrolled:"+scrolled)
+					console.log("lbox.scrollTop:"+lbox.scrollTop)
 				}else{
 					lbox.scrollTop = 0;
 				}
