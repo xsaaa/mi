@@ -88,15 +88,20 @@
 <style scoped="scoped">
 	#box{
 		width: 100%;
+		max-width: 750px;
+		margin: 0 auto;
 	}
 	#header01{
 		width: 100%;
 		background-color: #f2f2f2;
 		position: fixed;
 		top: 0px;
-		left: 0px;
-		padding: 3% 0%;
+		/*left: 0px;*/
+		padding-top: 3%;
+		max-width: 750px;
+		margin: 0 auto;
 		z-index: 999;
+		/*padding-bottom: 5%;*/
 	}
 	.header-left{
 		width: 8%;

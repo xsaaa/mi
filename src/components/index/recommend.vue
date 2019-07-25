@@ -121,6 +121,9 @@
 		overflow: hidden;
 		padding-bottom: 10%;
 	}
+	.pic{
+		padding-top: 21%;
+	}
  img{
 		width: 100%;
 		height: 100%;

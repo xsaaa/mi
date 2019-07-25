@@ -42,6 +42,10 @@
 	}
 </script>
 <style scoped="scoped">
+#foot{
+	max-width: 750px;
+  	margin: 0 auto;
+}
 ul {
   list-style-type: none;
   padding: 0;
@@ -51,6 +55,8 @@ ul {
   width: 100%;
   /*height: 10%;*/
   background-color: white;
+  /*max-width: 750px;*/
+  margin: 0 auto;
 }
 
 li {
